@@ -7,7 +7,7 @@ use yii\helpers\Json;
 use cybernic\assets\DropZoneAsset;
 
 /**
- * Usage: \cybernic\dropzonejs\DropZone::widget();
+ * Usage: \cybernic\DropZone::widget();
  * Class DropZone
  * @package cybernic
  */
