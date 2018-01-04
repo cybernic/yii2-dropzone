@@ -1,15 +1,15 @@
 <?php
 
-namespace kato;
+namespace cybernic;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
-use kato\assets\DropZoneAsset;
+use cybernic\assets\DropZoneAsset;
 
 /**
- * Usage: \kato\dropzonejs\DropZone::widget();
+ * Usage: \cybernic\dropzonejs\DropZone::widget();
  * Class DropZone
- * @package kato
+ * @package cybernic
  */
 class DropZone extends \yii\base\Widget
 {
