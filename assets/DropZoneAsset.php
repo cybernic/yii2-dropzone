@@ -1,6 +1,6 @@
 <?php
 
-namespace kato\assets;
+namespace cybernic\assets;
 
 use yii\web\AssetBundle;
 
